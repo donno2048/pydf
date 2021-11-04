@@ -1,0 +1,4 @@
+#include<stdio.h>
+int main(){puts("::");return 0;}/*%PDF
+1 0 obj << /Type /Catalog /Pages << /Type /Pages /Kids [ << /Type /Page /Contents <<>> stream
+/F1 1000 Tf (::) Tj endstream >> ] /Count 1 >> >> endobj trailer << /Root 1 0 R >>*/
