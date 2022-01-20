@@ -1,0 +1,8 @@
+#include<stdio.h>
+#define print(x) int main(){puts(x);return 0;}
+print("::")
+#if 0
+""" "%PDF
+1 0 obj << /Type /Catalog /Pages << /Type /Pages /Kids [ << /Type /Page /Contents <<>> stream
+/F1 1000 Tf (::) Tj endstream >> ] /Count 1 >> >> endobj trailer << /Root 1 0 R >>" """
+#endif
